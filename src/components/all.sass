@@ -2,17 +2,50 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #E86C20
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+$body-color: #393f55
+$black: #333
+$secondary: #DCDBDB
+$red: #FD461E
+$danger: #FD461E
+
+.section.section.section--gradient
+  top: 10px
+  background-color: $black
+  color: $black
+  padding: 14px
+  
+  
+section.section
+  background-color: $secondary
+
+div.column.is-10.is-offset-1
+  background-color: $secondary
+  
+div.section.is-medium
+  background-color: $secondary
+  padding: inherit
+  
+div.section
+  background-color: $secondary
+  padding: inherit  
+
+.navbar 
+  position: fixed !important
+  height: 7%
+  width: 100%
+  background-color: #DCDBDB !important
+  border-bottom: 2px solid
+  border-top: 2px solid
+  border-color: $danger
 
 .navbar .navbar-menu
   box-shadow:none !important
-
+  
 .content .taglist
   list-style: none
   margin-bottom: 0
@@ -67,6 +100,14 @@ $black: #2b2523
     box-shadow: inset 0 0 0 2px #f40
     -webkit-transition: all .15s ease
     transition: all .15s ease
+
+button.button
+  background-color: $red
+  color: $secondary
+  
+a.button 
+   background-color: $red
+   color: $secondary  
 
 .margin-top-0
   margin-top: 0 !important
