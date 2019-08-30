@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Our Xodiac
+title: Xodiak Apparel 
 image: /img/home-jumbotron.jpg
 heading: Great apparel with a conscience
 subheading: Support sustainable farming while enjoying a cup
