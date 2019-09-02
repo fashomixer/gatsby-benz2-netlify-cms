@@ -3,7 +3,7 @@ templateKey: index-page
 title: Xodiak Apparel
 image: /img/home-jumbotron.jpg
 heading: Great apparel with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Streetwear with a side of astral
 mainpitch:
   title: Why Xodiak
   description: |
