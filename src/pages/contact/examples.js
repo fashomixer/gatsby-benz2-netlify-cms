@@ -3,10 +3,10 @@ import Link from 'gatsby-link'
 import Layout from '../../components/Layout'
 
 export default class Index extends React.Component {
-  render() {
+  render () {
     return (
       <Layout>
-        <section className="section">
+        <section className="section3">
           <div className="container">
             <div className="content">
               <h1>Hi people</h1>
