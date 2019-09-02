@@ -6,11 +6,7 @@ heading: Great apparel with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Xodiak
-<<<<<<< HEAD
   description: >
-=======
-  description: |
->>>>>>> f6c298684c7429732956e22c7bb86a06300fa4f1
     Xodiac is the ultimate spot for favorite astral streetwear.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
