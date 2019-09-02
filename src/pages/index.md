@@ -29,19 +29,18 @@ intro:
     signs.
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: >-
+    We hold our apparel to the highest standards from the fabric to the press.
+    That’s why we’re meticulous and transparent about each step of our
+    clothing’s journey. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of our fabric
     image: /img/comingsoon2.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A boof
     image: /img/comingsoon2.jpg
   image3:
-    alt: Coffee beans
+    alt: Custom Designs
     image: /img/comingsoon2.jpg
 ---
 
