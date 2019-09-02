@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great apparel with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Xodiak
   description: >
     Xodiac is the ultimate spot for favorite astral streetwear.
 description: >-
