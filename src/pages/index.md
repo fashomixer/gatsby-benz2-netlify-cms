@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Xodiak Apparel 
+title: Xodiak Apparel
 image: /img/home-jumbotron.jpg
 heading: Great apparel with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
+  title: Why Xodiak
+  description: |
     Xodiac is the ultimate spot for favorite astral streetwear.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -65,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
