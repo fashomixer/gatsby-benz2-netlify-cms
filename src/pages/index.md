@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Xodiak Apparel
-image: /img/home-jumbotron.jpg
+image: /img/starbanner1.jpg
 heading: Great apparel with a conscience
 subheading: Streetwear with a side of astral
 mainpitch:
