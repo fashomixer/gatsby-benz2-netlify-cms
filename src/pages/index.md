@@ -6,7 +6,7 @@ heading: Great apparel with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Xodiak
-  description: >
+  description: |
     Xodiac is the ultimate spot for favorite astral streetwear.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -57,12 +57,12 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/comingsoon2.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/comingsoon2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/comingsoon2.jpg
 ---
 
