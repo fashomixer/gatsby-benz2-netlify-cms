@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Our Xodiac
-image: /img/starbanner1.jpg
+image: /img/home-jumbotron.jpg
 heading: Great apparel with a conscience
 description: Xodiac is the ultimate spot for favorite astral streetwear.
 intro:
